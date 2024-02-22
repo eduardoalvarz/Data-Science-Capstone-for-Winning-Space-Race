@@ -1,1 +1,1 @@
-# Data-Science-Capstone-for-Winning-Space-Race
+# Data Science Capstone for Winning Space Race
