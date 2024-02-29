@@ -1,7 +1,9 @@
 # Data Science Capstone for Winning Space Race
 
 ## Overview
-Welcome to the "Data Science Capstone for Winning Space Race" GitHub repository. This project is designed to immerse you in the world of commercial space travel, focusing on the groundbreaking achievements of companies like Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX. With the dawn of affordable space travel, understanding the dynamics of rocket launches, especially the cost-saving strategies through reusable rocket stages, becomes crucial. SpaceX has revolutionized this domain by making rocket launches more economical, primarily through the reuse of the Falcon 9's first stage. 
+Welcome to the "Data Science Capstone for Winning Space Race" GitHub repository. 
+
+This project is designed to immerse you in the world of commercial space travel, focusing on the groundbreaking achievements of companies like Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX. With the dawn of affordable space travel, understanding the dynamics of rocket launches, especially the cost-saving strategies through reusable rocket stages, becomes crucial. SpaceX has revolutionized this domain by making rocket launches more economical, primarily through the reuse of the Falcon 9's first stage. 
 
 This capstone project aims to leverage data science to predict the reusability of SpaceX's Falcon 9 first stage, thereby estimating the cost of a launch. You'll play the role of a data scientist at Space Y, a new company aiming to compete with SpaceX, using your skills to gather data, create insightful dashboards, and predict launch costs.
 
