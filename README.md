@@ -7,8 +7,8 @@ In this project, I dive deep into the burgeoning field of commercial space trave
 
 My mission in this capstone was to analyze launch data, create insightful dashboards, and apply machine learning techniques to predict the cost of space launches, positioning Space Y as a formidable competitor to SpaceX.
 
-## Curriculum
-This capstone covers a comprehensive curriculum to tackle the challenges of commercial space launches. Here's a breakdown of the main components:
+## Index
+This capstone covers a comprehensive index to tackle the challenges of commercial space launches. Here's a breakdown of the main components:
 
 ### Data Collection
 - **API Integration**
