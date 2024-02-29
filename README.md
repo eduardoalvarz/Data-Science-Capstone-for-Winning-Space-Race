@@ -43,5 +43,3 @@ By the end of this capstone, I achieved the following:
 - A GitHub repository containing all the code, datasets, and documentation for the project.
 - An interactive dashboard that visualizes my analysis and predictions in a user-friendly manner.
 - A presentation summarizing the key findings of my project, tailored for both technical and non-technical audiences.
-
-Embarking on this journey through data science within the realm of commercial space travel has been incredibly rewarding. This capstone project has been my launchpad into the exciting intersection of space exploration and data science, and I'm thrilled to share my work with you. Let's explore the final frontier together!
